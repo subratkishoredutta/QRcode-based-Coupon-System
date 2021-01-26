@@ -13,7 +13,6 @@ import cv2
 
 qr=qrcode.QRCode(version=1,box_size=10,border=2)
 state=0
-font = cv2.FONT_HERSHEY_COMPLEX_SMALL
 
 CMP="m&m"
 
